@@ -6,6 +6,7 @@ We turn on the LED via Arduino Uno, using a breadboard, an LED and wires with si
 
 first, we connect the LED via the breadboard to the Arduino uno as follows: the short leg to the GND output, the long leg to the digital pin number 12 through a resistor.
 we use simple commands:
+
 ![Screenshot_166](https://github.com/user-attachments/assets/7a210274-fbcb-4721-a1e2-7d749b0e1ad7)
 
 Ready:
