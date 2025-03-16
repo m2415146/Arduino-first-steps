@@ -49,6 +49,19 @@ let's try to adjust the brightness of the LED. we will use the components from t
 
 ![photo_5384181143139644968_y](https://github.com/user-attachments/assets/a6ccb822-006d-4e9d-b039-d6abfea80e0a)
 
+code
+
+![Screenshot_169](https://github.com/user-attachments/assets/a0d63a56-6151-49b4-8eb9-a136879244e9)
+
+Ready
+
+
+https://github.com/user-attachments/assets/b3cfb1b7-b256-471d-a459-a5c0aa40487b
+
+
+
+
+
 
 
 
