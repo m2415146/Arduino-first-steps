@@ -58,6 +58,23 @@ Ready
 
 https://github.com/user-attachments/assets/b3cfb1b7-b256-471d-a459-a5c0aa40487b
 
+## 3. Switching diodes on and off alternately
+
+Same components, but much more.
+
+while performing this task, I learned that the breadboard (we are talking about the bottom line) - minus does not act along the entire length of the breadboard, but it is divided in half in the breadboard itself - this is due to the location of the wires to the GND.
+
+code:
+
+![Screenshot_171](https://github.com/user-attachments/assets/be32a815-2e11-4017-ac5e-f53a7a034bb9)  
+
+ready
+
+
+
+https://github.com/user-attachments/assets/67fdad25-2307-4a2f-8cc1-e1c0c19aa1e3
+
+
 
 
 
