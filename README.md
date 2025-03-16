@@ -21,6 +21,14 @@ I will work with the microcontroller through the IDECOAGENT ARDUINO 2.3.4 progra
 
 https://docs.yandex.ru/docs/view?url=ya-disk-public%3A%2F%2FKkuyZfp7luJFe3SGyMjLs5oEyWnsZiTd6MeqkYz90qXTbB6MsuYAwpAJLSCtTQ5Nq%2FJ6bpmRyOJonT3VoXnDag%3D%3D%3A%2F%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F.pdf&name=%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%86%D0%B8%D1%8F.pdf
 
+to check, I will use the "" command and observe if it in Serial Monitor
+
+
+
+https://github.com/user-attachments/assets/92a59017-de0f-4985-a0f9-d1f4e0434eef
+
+
+
 ## 1. turning on the LED
 
 We turn on the LED via Arduino Uno, using a breadboard, an LED and wires with simple commands.
